@@ -9,9 +9,9 @@
               Build better digital products to unify your customer experiences and accelerate growth.
             </h1>
             <h2 class="h4 mb-4">
-              Welcome to the Minimal theme.
-              This is pushing from our local machine into Modyo.
-              This is an HTML widget that you can modify in the Page Builder section.
+              Welcome to the Minimal theme.<br>
+              This is the first change from our remote developer.<br>
+              This is an HTML widget that you can modify in the Page Builder section.<br>
               You can also modify the style in the Template Builder section.
             </h2>
             <a
